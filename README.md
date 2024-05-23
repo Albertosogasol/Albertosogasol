@@ -11,7 +11,7 @@
 </p>
 <b>About me: </b>
 <p>
-- 🙋‍♂️ I'm Alberto, a tech lover since childhood. Computers have been my passion the whole life
+- 🙋‍♂️ I'm Alberto, a tech lover since childhood. Computers have been my passion the whole life <br>
 - 🔭 I’m currently working as IT Engineer in the automotive indsutry developing software solution .<br>
 - 🌱 I'm on track for learning more about Data Analysis, Software Development and different Programming Languages<br>
 - ⚡ GEEK<br>
