@@ -14,7 +14,7 @@
 </div>
 
 
-<b>About me: </b>
+<h3 align="left">About me:</h3>
 <p>
 - 🙋‍♂️ I'm Alberto, a tech lover since childhood. Computers have been my passion the whole life <br>
 - 🔭 I’m currently working as IT Engineer in the automotive industry developing software solution .<br>
