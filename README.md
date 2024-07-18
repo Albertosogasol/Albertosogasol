@@ -44,12 +44,21 @@
 
 <h2 align="left">Stats</h2>
 
-###
+### 
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Albertosogasol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&order=2" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Albertosogasol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
+</div>
+-->
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertosogasol&theme=default&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Albertosogasol&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
 </div>
+
+
 <!--
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Albertosogasol&theme=default&show_icons=true&hide_border=true&layout=compact)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albertosogasol&theme=default&show_icons=true&hide_border=true&count_private=true)
@@ -107,7 +116,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+###
 
+<h2 align="left">Activity</h2>
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albertosogasol&radius=16&theme=github-light&area=true&order=5&hide_title=true&hide_border=false" height="275" alt="activity-graph graph"  />
+</div>
+
+###
