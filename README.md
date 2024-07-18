@@ -8,11 +8,15 @@
 </p>
 
 ###
-
-<div align="center">
-  <img height="400" src="https://careers.dft.gov.uk/wp-content/uploads/2022/10/DVLA-Software-Developer-Blog-Banner.png"  />
+<div id="header" align="center">
+  <img src="https://careers.dft.gov.uk/wp-content/uploads/2022/10/DVLA-Software-Developer-Blog-Banner.png" width="1000"/>
 </div>
 
+<!-- 
+  <div align="center">
+    <img height="400" src="https://careers.dft.gov.uk/wp-content/uploads/2022/10/DVLA-Software-Developer-Blog-Banner.png"  />
+  </div>
+-->
 ###
 
 <h2 align="left">About me:</h2>
