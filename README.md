@@ -2,9 +2,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Albertosogasol.Albertosogasol&"  />
-</div>
+<p align="center">
+  <a href="https://github.com/Albertosogasol"><img loading="lazy" src="https://hits.sh/github.com/Albertosogasol.svg?label=Visitors&color=white&labelColor=blue" alt="Visitors"></a> 
+  <a href="https://github.com/Albertosogaso"><img loading="lazy" src="https://komarev.com/ghpvc/?username=Albertosogasol" width="1" height="1" /></a>
+</p>
 
 ###
 
