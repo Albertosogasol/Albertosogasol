@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🙋‍♂️ I'm Alberto, a tech lover since childhood. Computers have been my passion the whole life<br>- 🔭 I’m currently working as software developer.<br>- 🌱 I'm on track for learning more about Data Analysis, Software Development and different Programming Languages<br>- ⚡ GEEK</p>
+<p align="left">- 🙋‍♂️ I'm Alberto, a tech lover since childhood. Computers have been my passion the whole life<br>- 🔭 I’m currently working as software engineer.<br>- 🌱 I'm on track for learning more about Data Analysis, Software Development and different Programming Languages<br>- ⚡ GEEK</p>
 
 ###
 
