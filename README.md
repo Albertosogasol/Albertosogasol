@@ -23,7 +23,15 @@
 
 ###
 
-<p align="left">- 🙋‍♂️ I'm Alberto, a tech lover since childhood. Computers have been my passion the whole life<br>- 🔭 I’m currently working as software engineer.<br>- 🌱 I'm on track for learning more about Data Analysis, Software Development and different Programming Languages<br>- ⚡ GEEK</p>
+<p align="left">
+- 🙋‍♂️ I'm Alberto, a passionate software engineer with a lifelong curiosity for technology.<br>
+- 👨‍💻 Currently working as a software engineer, focused on building reliable and efficient solutions.<br>
+- 🌱 Always learning more about Software Development, Data Analysis, and modern Programming Languages.<br>
+- 🛠️ Interested in automation, clean architecture, and system integration across different platforms.<br>
+- 🐧 Comfortable working in both Windows and Linux environments.<br>
+- 🏃‍♂️ Outside the screen, I'm an avid runner who enjoys staying active and goal-driven.
+</p>
+
 
 ###
 
